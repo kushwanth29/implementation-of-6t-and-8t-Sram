@@ -1,0 +1,109 @@
+Circuit: * C:\Users\bms_p\Desktop\6T sram.asc
+
+WARNING: Node NC_01 is floating.
+
+.step v5=0
+.step v5=0.01
+.step v5=0.02
+.step v5=0.03
+.step v5=0.04
+.step v5=0.05
+.step v5=0.06
+.step v5=0.07
+.step v5=0.08
+.step v5=0.09
+.step v5=0.1
+.step v5=0.11
+.step v5=0.12
+.step v5=0.13
+.step v5=0.14
+.step v5=0.15
+.step v5=0.16
+.step v5=0.17
+.step v5=0.18
+.step v5=0.19
+.step v5=0.2
+.step v5=0.21
+.step v5=0.22
+.step v5=0.23
+.step v5=0.24
+.step v5=0.25
+.step v5=0.26
+.step v5=0.27
+.step v5=0.28
+.step v5=0.29
+.step v5=0.3
+.step v5=0.31
+.step v5=0.32
+.step v5=0.33
+.step v5=0.34
+.step v5=0.35
+.step v5=0.36
+.step v5=0.37
+.step v5=0.38
+.step v5=0.39
+.step v5=0.4
+.step v5=0.41
+.step v5=0.42
+.step v5=0.43
+.step v5=0.44
+.step v5=0.45
+.step v5=0.46
+.step v5=0.47
+.step v5=0.48
+.step v5=0.49
+.step v5=0.5
+.step v5=0.51
+.step v5=0.52
+.step v5=0.53
+.step v5=0.54
+.step v5=0.55
+.step v5=0.56
+.step v5=0.57
+.step v5=0.58
+.step v5=0.59
+.step v5=0.6
+.step v5=0.61
+.step v5=0.62
+.step v5=0.63
+.step v5=0.64
+.step v5=0.65
+.step v5=0.66
+.step v5=0.67
+.step v5=0.68
+.step v5=0.69
+.step v5=0.7
+.step v5=0.71
+.step v5=0.72
+.step v5=0.73
+.step v5=0.74
+.step v5=0.75
+.step v5=0.76
+.step v5=0.77
+.step v5=0.78
+.step v5=0.79
+.step v5=0.8
+.step v5=0.81
+.step v5=0.82
+.step v5=0.83
+.step v5=0.84
+.step v5=0.85
+
+Date: Sun Feb 12 12:29:55 2023
+Total elapsed time: 0.215 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 15529
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 15
+fillins = 4
+solver = Normal
+Avg thread counts: 3.0/0.0/1.1/1.0
+Matrix Compiler1:      41 opcodes  0.1/[0.1]/0.2
+Matrix Compiler2: off  [0.1]/0.2/0.2
+
